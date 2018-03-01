@@ -1,0 +1,17 @@
+{
+  "name": "cryptocurrency-dash",
+  "homepage": "https://github.com/vagaraga/portfolio",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
